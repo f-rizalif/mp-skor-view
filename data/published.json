@@ -1,0 +1,63 @@
+{
+	"versi": 1,
+	"diterbitkanPada": "",
+	"pengaturan": {
+		"judul": "MPSkor",
+		"subjudul": "Papan skor line produksi",
+		"skorAwal": 99,
+		"mulaiMinggu": "senin",
+		"pembulatanDurasi": "atas",
+		"zonaWaktu": "Asia/Jakarta",
+		"sertakanFoto": true
+	},
+	"manpower": [],
+	"kategori": [
+		{
+			"id": "kategori-awal-proses",
+			"nama": "Awal Proses",
+			"jenis": "tetap",
+			"minus": 5,
+			"intervalMenit": 5,
+			"aktif": true,
+			"urutan": 1,
+			"bawaan": true
+		},
+		{
+			"id": "kategori-tengah-proses",
+			"nama": "Tengah Proses",
+			"jenis": "tetap",
+			"minus": 5,
+			"intervalMenit": 5,
+			"aktif": true,
+			"urutan": 2,
+			"bawaan": true
+		},
+		{
+			"id": "kategori-akhir-proses",
+			"nama": "Akhir Proses",
+			"jenis": "tetap",
+			"minus": 5,
+			"intervalMenit": 5,
+			"aktif": true,
+			"urutan": 3,
+			"bawaan": true
+		},
+		{
+			"id": "kategori-ijin-keluar-line",
+			"nama": "Ijin Keluar Line",
+			"jenis": "durasi",
+			"minus": 3,
+			"intervalMenit": 5,
+			"aktif": true,
+			"urutan": 4,
+			"bawaan": true
+		}
+	],
+	"catatan": [],
+	"ringkasan": {
+		"jumlahManpower": 0,
+		"jumlahCatatan": 0,
+		"jumlahFoto": 0,
+		"totalMinus": 0
+	}
+}
