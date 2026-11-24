@@ -1,1 +1,0 @@
-import"../chunks/C-His8s0.js";import"../chunks/ByQwgV_t.js";import{t as e}from"../chunks/Bm7Qqy2w.js";import{t}from"../chunks/VADPX00t.js";function n(n){e(n,{children:(e,n)=>{t(e,{})},$$slots:{default:!0}})}export{n as component};
