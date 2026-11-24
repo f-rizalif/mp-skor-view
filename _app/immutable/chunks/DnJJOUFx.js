@@ -1,0 +1,1 @@
+import{A as e,N as t,O as n,P as r,Q as i,at as a,l as o,ot as s}from"./C-His8s0.js";var c=e(`<button type="button" class="switch" role="switch"></button>`);function l(e,t){s(t,!0);var l=c();i(()=>{o(l,`aria-checked`,t.aktif),o(l,`aria-label`,t.label)}),r(`click`,l,()=>t.onubah(!t.aktif)),n(e,l),a()}t([`click`]);export{l as t};

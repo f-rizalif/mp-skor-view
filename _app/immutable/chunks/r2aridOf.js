@@ -1,1 +1,0 @@
-import{n as e,r as t}from"./DoSzrZsz.js";import{n}from"./CZOpurE6.js";var r={name:`git-branch`,size:24,node:[[`path`,{d:`M15 6a9 9 0 0 0-9 9V3`}],[`circle`,{cx:`18`,cy:`6`,r:`3`}],[`circle`,{cx:`6`,cy:`18`,r:`3`}]]};r.node;var i=new Set([`$$slots`,`$$events`,`$$legacy`]);function a(a,o){let s=e(o,i);n(a,t(()=>s,{get icon(){return r}}))}export{a as t};

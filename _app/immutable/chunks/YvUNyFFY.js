@@ -1,1 +1,0 @@
-import{A as e,N as t,O as n,P as r,Z as i,at as a,it as o,l as s}from"./DoSzrZsz.js";var c=e(`<button type="button" class="switch" role="switch"></button>`);function l(e,t){a(t,!0);var l=c();i(()=>{s(l,`aria-checked`,t.aktif),s(l,`aria-label`,t.label)}),r(`click`,l,()=>t.onubah(!t.aktif)),n(e,l),o()}t([`click`]);export{l as t};
